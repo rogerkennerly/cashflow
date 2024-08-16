@@ -1,4 +1,4 @@
-﻿using CashFlow.Infrastructure.DataAccess.Repositories;
+﻿using CashFlow.Domain.Repositories;
 
 namespace CashFlow.Infrastructure.DataAccess;
 

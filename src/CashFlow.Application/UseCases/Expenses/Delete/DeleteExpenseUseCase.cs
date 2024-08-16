@@ -1,6 +1,6 @@
-﻿using CashFlow.Domain.Repositories.Expenses;
+﻿using CashFlow.Domain.Repositories;
+using CashFlow.Domain.Repositories.Expenses;
 using CashFlow.Exception;
-using CashFlow.Infrastructure.DataAccess.Repositories;
 
 namespace CashFlow.Application.UseCases.Expenses.Delete;
 

@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Logo\profile-36.png" />
+    <None Remove="Logo\ProfilePhoto.jfif" />
     <None Remove="UseCases\Expenses\Reports\Pdf\Fonts\Raleway-Black.ttf" />
     <None Remove="UseCases\Expenses\Reports\Pdf\Fonts\Raleway-Regular.ttf" />
     <None Remove="UseCases\Expenses\Reports\Pdf\Fonts\WorkSans-Black.ttf" />
@@ -35,7 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Logo\ProfilePhoto.jfif">
+    <None Update="Logo\profile-72.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
